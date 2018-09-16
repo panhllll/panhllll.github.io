@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-08-30T14:11:46.733Z</updated>
+  <updated>2018-09-16T02:01:44.350Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,12 @@
     <link href="http://yoursite.com/2018/08/30/Untitled/"/>
     <id>http://yoursite.com/2018/08/30/Untitled/</id>
     <published>2018-08-30T14:09:51.000Z</published>
-    <updated>2018-08-30T14:11:46.733Z</updated>
+    <updated>2018-09-16T02:01:44.350Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;相关步骤：&lt;/p&gt;
+      &lt;p&gt;相关步骤：&lt;/p&gt;
 &lt;p&gt;1、安装Node.js和配置好Node.js环境，打开cmd命令行，成功界面如下&lt;/p&gt;
-&lt;p&gt; 2、安装Git和配置好Git环境，安装成功的象征就是在电脑上任何位置鼠标右键能够出现如下两个选择&lt;/p&gt;
-&lt;p&gt;注意：一般出于安全考虑，只有在Git 
-      
     
     </summary>
     
